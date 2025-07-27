@@ -16,7 +16,7 @@
 
 ## 🔺 Demo
 
-### [Live Demo, click here](https://qr-code-generator.vercel.app/)
+### [Live Demo, click here](https://qrgen-easy.vercel.app/)
 
 ## 📦 Tech Stack
 
