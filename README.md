@@ -10,8 +10,12 @@
 <p align="center">A modern, responsive QR code generator built with Next.js and React. Generate QR codes instantly with customizable options and multi-language support.</p>
 
 <p align="center">
-  <img width="45%" src="docs/assets/screenshot-1.png" alt="illustration" >
-  <img width="45%" src="docs/assets/screenshot-2.png" alt="illustration" >
+  <img width="100%" src="docs/assets/screenshot-1.jpg" alt="screenshot" >
+</p>
+
+<p align="center">
+  <img width="45%" src="docs/assets/screenshot-2.jpg" alt="screenshot" >
+  <img width="45%" src="docs/assets/screenshot-3.jpg" alt="screenshot" >
 </p>
 
 ## 🔺 Demo
